@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # apply
 
 > A Vue.js project
@@ -19,3 +20,7 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+=======
+# overtime-
+加班项目
+>>>>>>> 4135bf20b36c91538bd36fb9c0ecfcb5068fd03f
